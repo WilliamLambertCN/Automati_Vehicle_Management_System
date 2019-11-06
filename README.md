@@ -1,5 +1,6 @@
 # Automati_Vehicle_Management_System
-Automati_Vehicle_Management_System
+Automati_Vehicle_Management_System.  
+Because the project is unconvenient to upload in github, only show the ppt screenshots (original ppt is too large too).  
 
 <table>  
     <tr>
